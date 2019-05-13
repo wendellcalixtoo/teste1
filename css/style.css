@@ -1,0 +1,43 @@
+body{
+    background-image: url(../img/backgrounds/flocos.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#primeiro{
+    background-image: url(../img/backgrounds/conteiners.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: red;
+}
+
+#segundo{
+    color: blue;
+}
+
+#terceiro{
+    color: green;
+}
+
+#divfuria{
+    background-image: url(../img/backgrounds/bckgfuria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: red;
+}
+
+#furia{
+    color: rgb(255, 94, 0);
+}
+
+.maintext{
+    background-color: aquamarine;
+}
+
+#docas{
+    color: red;
+    background-image: url(../img/backgrounds/conteiners.jpeg);
+    background-position: right;
+}
